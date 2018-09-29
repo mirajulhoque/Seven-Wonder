@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Seven Wonder</string>
+
+    <string name="name_1">Great Wall of China (China)</string>
+    <string name="name_2">Christ the Redeemer Statue (Rio de Janeiro)</string>
+    <string name="name_3">Machu Picchu (Peru)</string>
+    <string name="name_4">Chichen Itza (Yucatan Peninsula, Mexico)</string>
+    <string name="name_5">The Roman Colosseum (Rome)</string>
+    <string name="name_6">Taj Mahal (Agra, India)</string>
+    <string name="name_7">Petra (Jordan)</string>
+
+    <string name="details_1">
+        Great Wall of China (China)Built between the 5th century B.C. and the 16th century, the Great Wall of China is a stone-and-earth fortification created to protect the borders of the Chinese Empire from invading Mongols.\nThe Great Wall is actually a succession of multiple walls spanning approximately 4,000 miles, making it the world\'s longest manmade structure.\n
+         \n
+        \n
+         5ম শতাব্দীর বি.সি. এবং 16 তম শতাব্দী, চীনের মহান প্রাচীরটি চীনের সাম্রাজ্যের সীমান্ত রক্ষা করতে মঙ্গোলদের উপর আক্রমণের জন্য একটি প্রস্তর ও ভূমি দুর্গ নির্মাণ করেছে।\nগ্রেট ওয়াল প্রকৃতপক্ষে আনুমানিক 4,000 মাইল বিস্তৃত একাধিক দেওয়ালের একটি উত্তরাধিকার, এটি বিশ্বের দীর্ঘতম manmade গঠন করে তোলে ।\n
+
+</string>
+    <string name="details_2">
+        The Art Deco-style Christ the Redeemer statue has been looming over the Braziliansfrom upon Corcovado mountain in an awe-inspiring state of eternal blessing since 1931.\nThe 130-foot reinforced concrete-and-soapstone statue was designed by Heitor da Silva Costa and cost approximately $250,000 to build - much of the money was raised through donations.\nThe statue has become an easily recognized icon for Rio and Brazil.
+        \n
+        \n
+        1931 সাল থেকে আরামদায়ক আশীর্বাদের একটি ভয়ঙ্কর রাজ্যে Corcovado পর্বতমালার উপর ব্রাজিলীয়দের কাছ থেকে Art Deco-style Christ the Redeemer মূর্তিটি অস্থির হয়ে পড়েছে ।\n130-ফুট সুদৃঢ় কংক্রিট-এবং-সোপেন্স মূর্তি হেক্টর দা সিলভা কোস্টা এবং খরচ দ্বারা ডিজাইন করা হয়েছিল আনুমানিক $ 250,000 বিল্ড করা - অনেক অর্থ দান মাধ্যমে উত্থাপিত হয়েছিল মূর্তি রিও এবং ব্রাজিল জন্য একটি সহজেই স্বীকৃত আইকন হয়ে গেছে ।\n
+</string>
+    <string name="details_3">
+        Machu Picchu, an Incan city of sparkling granite precariously perched between 2 towering Andean peaks, is thought by scholars to have been a sacred archaeological center for the nearby Incan capital of Cusco.\nBuilt at the peak of the Incan Empire in the mid-1400s, this mountain citadel was later abandoned by the Incas.\nThe site remained unknown except to locals until 1911, when it was rediscovered by archaeologist Hiram Bingham.\nThe site can only be reached by foot, train or helicopter; most visitors visit by train from nearby Cusco.
+         \n
+        \n
+        মাচু পিচ্চু, একটি অদ্ভুত গ্রানাইট, যা 2 টি তীব্র আন্দ্রিয় পর্বতমালার মধ্যে বেঁচে আছে, আলেকজান্দ্রিয়ার কানস্কোর কাছাকাছি একটি পবিত্র প্রত্নতাত্ত্বিক কেন্দ্র হিসেবে বিবেচিত।\n1400 এর মাঝামাঝি ইনকাম সাম্রাজ্যের শীর্ষে নির্মিত, পরে এই পর্বতটি রাজধানী ইঙ্কাস কর্তৃক পরিত্যক্ত হয়।\n1911 সাল পর্যন্ত স্থানীয়দের ছাড়াও এই সাইটটি অজানা ছিল, যখন এটি পুরাতত্ত্ববিদ হীরম বিংহামের দ্বারা পুনঃপ্রতিষ্ঠিত হয়েছিল। এই সাইটটি শুধুমাত্র পা, ট্রেন বা হেলিকপ্টারে পৌঁছাতে পারে; বেশিরভাগ দর্শক নিকটবর্তী কোস্কো থেকে ট্রেনে ভ্রমণ করেন ।
+</string>
+    <string name="details_4">
+        The genius and adaptability of Mayan culture can be seen in the splendid ruins of Chichen Itza.\nThis powerful city, a trading center for cloth, slaves, honey and salt, flourished from approximately 800 to 1200, and acted as the political and economic hub of the Mayan civilization.\nThe most familiar ruin at the site is El Caracol, a sophisticated astronomical observatory.\n
+ \n
+        \n
+        \n
+        মায়ান সংস্কৃতির প্রতিভা এবং সংযোজনযোগ্যতা চিকেন ইটজা এর মহৎ ধ্বংসাবশেষ দেখা যায়।\nএই শক্তিশালী শহর, কাপড়, ক্রীতদাস, মধু ও লবণের জন্য একটি বাণিজ্য কেন্দ্র প্রায় 800 থেকে 1200 পর্যন্ত বিস্তৃত এবং মায়া সভ্যতার রাজনৈতিক ও অর্থনৈতিক হাব হিসেবে কাজ করে।\nএই সাইটে সবচেয়ে পরিচিত ধ্বংসপ্রাপ্ত এল কারাকল, একটি অত্যাধুনিক জ্যোতির্বিদ্যা পর্যবেক্ষণ কেন্দ্র।\n
+
+</string>
+    <string name="details_5">
+        Rome\'s, if not Italy\'s, most enduring icon is undoubtedly its Colosseum.\nBuilt between A.D. 70 and 80 A.D., it was in use for some 500 years.\nThe elliptical structure sat nearly 50,000 spectators, who gathered to watch the gladiatorial events as well as other public spectacles, including battle reenactments, animal hunts and executions.\nEarthquakes and stone-robbers have left the Colosseum in a state of ruin, but portions of the structure remain open to tourists, and its design still influences the construction of modern-day amphitheaters, some 2,000 years later.\n
+        \n
+        \n
+
+        রোমের, ইতালি না যদি, সবচেয়ে স্থায়ী আইকন নিঃসন্দেহে তার কলোসিয়াম হয় এডি 70 এবং 80 এ.ডি. এর মধ্যে নির্মিত, এটি প্রায় 500 বছর ধরে ব্যবহার করা হয়েছিল।\nআলেকজান্ডার কাঠামো প্রায় 50,000 দর্শক, যারা gladiatorial ঘটনা পাশাপাশি যুদ্ধ reenactments, পশু শিকার এবং মৃত্যুদন্ডসহ অন্যান্য পাবলিক চশমা, দেখতে জড়ো।\nভূমিকম্প এবং পাথর-ডাকাতরা ধ্বংসস্তূপে একটি কলোসিয়াম ত্যাগ করেছেন, তবে কাঠামোটির অংশ পর্যটকদের জন্য খোলা রয়েছে, এবং এর ডিজাইন এখনও আধুনিক দিনের আম্ফিটাইটার নির্মাণের উপর প্রভাব ফেলে, প্রায় ২000 বছর পরে।\n
+</string>
+    <string name="details_6">
+        A mausoleum commissioned for the wife of Mughal Emperor Shah Jahan, the Taj Mahalwas built between 1632 and 1648.\nConsidered the most perfect specimen of Muslim art in India, the white marble structure actually represents a number of architectural styles, including Persian, Islamic, Turkish and Indian.\nThe Taj Mahal also encompasses formal gardens of raised pathways, sunken flower beds and a linear reflecting pool.\n
+
+        \n
+        \n
+        মুগল সম্রাট শাহ জাহান, 163২ ও 1648 সালে নির্মিত মুগল সম্রাট শাহজাহানের স্ত্রীদের জন্য একটি সমাধিসৌধ তৈরি করেন।\nভারতে মুসলিম শিল্পের সবচেয়ে নিখুঁত নমুনা হিসেবে বিবেচিত, সাদা মার্বেল কাঠামো প্রকৃতপক্ষে পারসিক, ইসলামিক, তুর্কিসহ বেশ কিছু স্থাপত্য শৈলীর প্রতিনিধিত্ব করে।\nএবং ভারতীয় তাজমহল এছাড়াও উত্থাপিত রাস্তা আনুষ্ঠানিক বাগান, sunken ফুল শয্যা এবং একটি রৈখিক প্রতিফলন পুল অন্তর্ভুক্ত।\n
+
+</string>
+    <string name="details_7">
+        Declared a World Heritage Site in 1985, Petra was the capital of the Nabataean empire of King Aretas IV, and likely existed in its prime from 9 B.C. to A.D. 40.\nThe members of this civilization proved to be early experts in manipulating water technology, constructing intricate tunnels and water chambers, which helped create an pseudo-oasis.\nA number of incredible structures carved into stone, a 4,000-seat amphitheater and the El-Deir monastery have also helped the site earn its fame.
+         \n
+        \n
+        1985 সালে একটি বিশ্ব ঐতিহ্যবাহী স্থান ঘোষণা করে, রাজা রাজা আরিতা চত্বরের নাতাট্য সাম্রাজ্যের রাজধানী পেত্রা ছিলেন এবং সম্ভবত 9 বি.সি. এ.ড. 40.\nএ সভ্যতার সদস্যরা জল প্রযুক্তিকে জটিল করে তোলার ক্ষেত্রে প্রারম্ভিক বিশেষজ্ঞ হিসেবে প্রমাণিত হয়েছিলেন, জটিল টানেল এবং জলসম্পদ নির্মাণ করে, যার ফলে ছদ্ম-উসিস তৈরি করা সম্ভব হয়েছিল।\nএকটি পাথরের মধ্যে খোদিত অবিশ্বাস্য কাঠামো, একটি 4,000-সীট অ্যাম্ফিথিয়েটার এবং এল-দির মঠ, এছাড়াও সাইটটি তার খ্যাতি অর্জন করতে সাহায্য করেছে।
+</string>
+</resources>
